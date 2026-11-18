@@ -11,12 +11,13 @@
 
 📍 Dhaka, Bangladesh
 
-<a href="mailto:jannatulhritu57@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jannatulhritu57@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://github.com/jferdous222318">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://jferdous222318.github.io/Hritu-Protfolio/">
+    Portfolio
+  </a>
 <a href="https://www.linkedin.com/in/jannatul-ferdous-hrituritu-44748b44b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -48,10 +49,6 @@ I enjoy developing web applications, solving programming problems, and exploring
 - 📚 Improving my software engineering and problem-solving skills.
 
 ---
-
-## 🛠️ Technical Skills
-
-
 ## 🛠️ TECHNICAL SKILLS
 
 ### 💻 Programming Languages
@@ -60,7 +57,7 @@ I enjoy developing web applications, solving programming problems, and exploring
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
 </p>
 
-<p>C, C++, Python (Basic), JavaScript (ES6), TypeScript, SQL</p>
+<p>C, C++, Python, JavaScript (ES6), TypeScript, SQL</p>
 
 ### 🌐 Frontend Development
 
@@ -68,7 +65,7 @@ I enjoy developing web applications, solving programming problems, and exploring
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-<p>React.js, Next.js, HTML5, CSS3, Tailwind CSS, daisyUI</p>
+<p>React.js, Next.js, HTML5, CSS3, Tailwind CSS</p>
 
 ### ⚙️ Backend Development
 
@@ -92,7 +89,7 @@ I enjoy developing web applications, solving programming problems, and exploring
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-<p>Deep Learning, Multimodal Learning, Data Processing, Model Training & Evaluation, LLM Agent Security</p>
+<p> Multimodal Learning, Data Processing, Model Training & Evaluation, LLM Agent Security</p>
 
 ### 🔧 Tools & Platforms
 
@@ -108,13 +105,13 @@ I enjoy developing web applications, solving programming problems, and exploring
   <a href="https://github.com/jferdous222318">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/jannatul-ferdous-hrituritu-44748b44b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:jannatulhritu57@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jannatulhritu57@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+  <a href="https://jferdous222318.github.io/Hritu-Protfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -134,32 +131,56 @@ I enjoy developing web applications, solving programming problems, and exploring
 ---
 
 ## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jferdous222318&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jferdous222318&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=jferdous222318&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jferdous222318&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
 
 ---
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="YOUR_BREAST_CANCER_RESEARCH_REPO_URL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jferdous222318&repo=YOUR_RESEARCH_REPO_NAME&theme=tokyonight&hide_border=true"/>
+### 🌐 Web Development
+
+<a href="https://github.com/jferdous222318/studiospace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jferdous222318&repo=studiospace&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/jferdous222318/Green-Computing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jferdous222318&repo=Green-Computing&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/jferdous222318/Assignment06">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jferdous222318&repo=Assignment06&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/jferdous222318/Study2gather">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jferdous222318&repo=Study2gather&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/jferdous222318/Bazar-Dor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jferdous222318&repo=Bazar-Dor&theme=tokyonight&hide_border=true" />
+</a>
+
+### 🤖 AI & Machine Learning Research
+
+<a href="https://github.com/jferdous222318/Multimodal-Integration-of-Histopathology-Clinical-and-Genome-data-for-breast-cancer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jferdous222318&repo=Multimodal-Integration-of-Histopathology-Clinical-and-Genome-data-for-breast-cancer&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/jferdous222318/Agentic">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jferdous222318&repo=Agentic&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
+
 
 ---
 
