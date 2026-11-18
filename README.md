@@ -11,9 +11,10 @@
 
 📍 Dhaka, Bangladesh
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jannatulhritu57@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="mailto:jannatuhritu57@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-jannatuhritu57%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
 </a>
+
  </a>
   <a href="https://jferdous222318.github.io/Hritu-Protfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
