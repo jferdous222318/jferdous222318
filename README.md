@@ -151,35 +151,43 @@ I enjoy developing web applications, solving programming problems, and exploring
 </p>
 
 ---
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3>🌐 StudioSpace</h3>
+<p>A full-stack studio booking platform built with Next.js, Express.js, and MongoDB.</p>
+<a href="https://github.com/jferdous222318/studiospace">View Repository →</a>
+</td>
+<td width="50%">
+<h3>💪 FitLog</h3>
+<p>A fitness tracking application built with Next.js, React, and TypeScript.</p>
+<a href="https://github.com/jferdous222318/Fit-log">View Repository →</a>
+</td>
+</tr>
 
-### 🌐 Web Development
+<tr>
+<td width="50%">
+<h3>🛒 BazarDor</h3>
+<p>A Bangladesh-focused platform for tracking daily prices of essential products.</p>
+<a href="https://github.com/jferdous222318/Bazar-Dor">View Repository →</a>
+</td>
+<td width="50%">
+<h3>🧬 Breast Cancer Prediction</h3>
+<p>A multimodal deep learning research project integrating histopathology, genomic, and clinical data.</p>
+<a href="https://github.com/jferdous222318/Multimodal-Integration-of-Histopathology-Clinical-and-Genome-data-for-breast-cancer">View Repository →</a>
+</td>
+</tr>
 
-<a href="https://github.com/jferdous222318/studiospace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jferdous222318&repo=studiospace&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/jferdous222318/Assignment06">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jferdous222318&repo=Assignment06&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/jferdous222318/Bazar-Dor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jferdous222318&repo=Bazar-Dor&theme=tokyonight&hide_border=true" />
-</a>
-
-### 🤖 AI & Machine Learning Research
-
-<a href="https://github.com/jferdous222318/Multimodal-Integration-of-Histopathology-Clinical-and-Genome-data-for-breast-cancer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jferdous222318&repo=Multimodal-Integration-of-Histopathology-Clinical-and-Genome-data-for-breast-cancer&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/jferdous222318/Agentic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jferdous222318&repo=Agentic&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+<tr>
+<td colspan="2">
+<h3>🤖 SAFE-Agent</h3>
+<p>A security framework for LLM-based agents using prevention, detection, and response mechanisms.</p>
+<a href="https://github.com/jferdous222318/Agentic">View Repository →</a>
+</td>
+</tr>
+</table>
 
 
 ---
