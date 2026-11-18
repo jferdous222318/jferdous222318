@@ -51,11 +51,16 @@ I enjoy developing web applications, solving programming problems, and exploring
 
 ## 🛠️ Technical Skills
 
+
+## 🛠️ TECHNICAL SKILLS
+
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
 </p>
+
+<p>C, C++, Python (Basic), JavaScript (ES6), TypeScript, SQL</p>
 
 ### 🌐 Frontend Development
 
@@ -63,25 +68,39 @@ I enjoy developing web applications, solving programming problems, and exploring
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
+<p>React.js, Next.js, HTML5, CSS3, Tailwind CSS, daisyUI</p>
+
 ### ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database & Tools
+<p>Node.js, Express.js, REST APIs, JWT Authentication</p>
+
+### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🤖 Machine Learning & Data Science
+<p>MongoDB, MySQL</p>
+
+### 🤖 AI / Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
----
+<p>Deep Learning, Multimodal Learning, Data Processing, Model Training & Evaluation, LLM Agent Security</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+<p>Git, GitHub, VS Code, Vercel</p>
 
 ## 🌐 Connect With Me
 
